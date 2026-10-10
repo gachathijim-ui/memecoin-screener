@@ -5,3 +5,4 @@ pydantic>=2.12.0
 pydantic-settings>=2.12.0
 tenacity==8.5.0
 python-dotenv==1.0.1
+websockets>=12.0
